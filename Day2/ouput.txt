@@ -1,0 +1,13 @@
+Day 2 Part 1
+-----------------
+Total double counts found: 246
+Total triple counts found: 35
+Checksum: 8610
+
+Day 2 Part 2
+-----------------
+Searching ID's for match...
+Match found!: IDA = iosnxmfkpabcjpdywvrtaqhluy IDB = iosnxmfkpabcjpdywvrtawhluy | ID difference: 1 characters
+The matching letters found in these strings are: iosnxmfkpabcjpdywvrtahluy
+
+Press any key to continue . . .
