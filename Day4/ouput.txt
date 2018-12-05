@@ -1,0 +1,184 @@
+
+191| Total Time slept: 154
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 0 | minute (6): 0 | minute (7): 0 | minute (8): 0 | minute (9): 0 | minute (10): 1
+ | minute (11): 1 | minute (12): 2 | minute (13): 2 | minute (14): 2 | minute (15): 2 | minute (16): 2 | minute (17): 2 | minute (18): 2 | minute (19): 2 | minute (20): 2
+ | minute (21): 3 | minute (22): 3 | minute (23): 3 | minute (24): 3 | minute (25): 3 | minute (26): 4 | minute (27): 4 | minute (28): 5 | minute (29): 5 | minute (30): 5
+ | minute (31): 5 | minute (32): 5 | minute (33): 6 | minute (34): 7 | minute (35): 7 | minute (36): 6 | minute (37): 5 | minute (38): 5 | minute (39): 5 | minute (40): 5
+ | minute (41): 5 | minute (42): 4 | minute (43): 3 | minute (44): 3 | minute (45): 3 | minute (46): 3 | minute (47): 4 | minute (48): 4 | minute (49): 3 | minute (50): 2
+ | minute (51): 1 | minute (52): 1 | minute (53): 2 | minute (54): 2 | minute (55): 0 | minute (56): 0 | minute (57): 0 | minute (58): 0 | minute (59): 0
+
+211| Total Time slept: 403
+ | minute (0): 1 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 1 | minute (5): 2 | minute (6): 2 | minute (7): 3 | minute (8): 3 | minute (9): 3 | minute (10): 3
+ | minute (11): 3 | minute (12): 3 | minute (13): 4 | minute (14): 4 | minute (15): 6 | minute (16): 6 | minute (17): 6 | minute (18): 8 | minute (19): 9 | minute (20): 9
+ | minute (21): 9 | minute (22): 10 | minute (23): 10 | minute (24): 10 | minute (25): 11 | minute (26): 11 | minute (27): 11 | minute (28): 11 | minute (29): 9 | minute (30): 8
+ | minute (31): 8 | minute (32): 8 | minute (33): 9 | minute (34): 9 | minute (35): 10 | minute (36): 10 | minute (37): 11 | minute (38): 11 | minute (39): 11 | minute (40): 10
+ | minute (41): 11 | minute (42): 11 | minute (43): 13 | minute (44): 13 | minute (45): 13 | minute (46): 12 | minute (47): 10 | minute (48): 8 | minute (49): 7 | minute (50): 6
+ | minute (51): 6 | minute (52): 7 | minute (53): 3 | minute (54): 2 | minute (55): 2 | minute (56): 2 | minute (57): 1 | minute (58): 0 | minute (59): 0
+
+233| Total Time slept: 152
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 1 | minute (5): 1 | minute (6): 1 | minute (7): 1 | minute (8): 1 | minute (9): 1 | minute (10): 1
+ | minute (11): 1 | minute (12): 1 | minute (13): 1 | minute (14): 1 | minute (15): 2 | minute (16): 2 | minute (17): 2 | minute (18): 2 | minute (19): 3 | minute (20): 3
+ | minute (21): 3 | minute (22): 3 | minute (23): 3 | minute (24): 3 | minute (25): 3 | minute (26): 3 | minute (27): 2 | minute (28): 1 | minute (29): 1 | minute (30): 1
+ | minute (31): 1 | minute (32): 1 | minute (33): 1 | minute (34): 1 | minute (35): 3 | minute (36): 3 | minute (37): 4 | minute (38): 4 | minute (39): 5 | minute (40): 5
+ | minute (41): 5 | minute (42): 5 | minute (43): 5 | minute (44): 4 | minute (45): 3 | minute (46): 3 | minute (47): 3 | minute (48): 5 | minute (49): 5 | minute (50): 5
+ | minute (51): 6 | minute (52): 5 | minute (53): 5 | minute (54): 5 | minute (55): 4 | minute (56): 4 | minute (57): 3 | minute (58): 1 | minute (59): 0
+
+349| Total Time slept: 423
+ | minute (0): 1 | minute (1): 1 | minute (2): 1 | minute (3): 2 | minute (4): 2 | minute (5): 3 | minute (6): 3 | minute (7): 3 | minute (8): 4 | minute (9): 5 | minute (10): 5
+ | minute (11): 5 | minute (12): 6 | minute (13): 7 | minute (14): 7 | minute (15): 8 | minute (16): 8 | minute (17): 8 | minute (18): 8 | minute (19): 8 | minute (20): 8
+ | minute (21): 8 | minute (22): 8 | minute (23): 8 | minute (24): 10 | minute (25): 9 | minute (26): 9 | minute (27): 10 | minute (28): 11 | minute (29): 12 | minute (30): 14
+ | minute (31): 14 | minute (32): 13 | minute (33): 11 | minute (34): 11 | minute (35): 12 | minute (36): 12 | minute (37): 11 | minute (38): 10 | minute (39): 10 | minute (40): 10
+ | minute (41): 9 | minute (42): 8 | minute (43): 7 | minute (44): 8 | minute (45): 8 | minute (46): 7 | minute (47): 6 | minute (48): 6 | minute (49): 6 | minute (50): 9
+ | minute (51): 9 | minute (52): 7 | minute (53): 4 | minute (54): 4 | minute (55): 2 | minute (56): 3 | minute (57): 3 | minute (58): 1 | minute (59): 0
+
+509| Total Time slept: 445
+ | minute (0): 1 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 2 | minute (5): 3 | minute (6): 3 | minute (7): 3 | minute (8): 3 | minute (9): 4 | minute (10): 6
+ | minute (11): 7 | minute (12): 7 | minute (13): 7 | minute (14): 9 | minute (15): 10 | minute (16): 10 | minute (17): 10 | minute (18): 10 | minute (19): 10 | minute (20): 9
+ | minute (21): 10 | minute (22): 10 | minute (23): 10 | minute (24): 11 | minute (25): 10 | minute (26): 10 | minute (27): 11 | minute (28): 11 | minute (29): 10 | minute (30): 10
+ | minute (31): 9 | minute (32): 8 | minute (33): 8 | minute (34): 8 | minute (35): 8 | minute (36): 9 | minute (37): 8 | minute (38): 7 | minute (39): 9 | minute (40): 9
+ | minute (41): 8 | minute (42): 10 | minute (43): 9 | minute (44): 9 | minute (45): 9 | minute (46): 10 | minute (47): 10 | minute (48): 11 | minute (49): 9 | minute (50): 9
+ | minute (51): 8 | minute (52): 7 | minute (53): 7 | minute (54): 7 | minute (55): 7 | minute (56): 7 | minute (57): 5 | minute (58): 0 | minute (59): 0
+
+661| Total Time slept: 406
+ | minute (0): 0 | minute (1): 0 | minute (2): 1 | minute (3): 1 | minute (4): 1 | minute (5): 2 | minute (6): 3 | minute (7): 3 | minute (8): 3 | minute (9): 3 | minute (10): 3
+ | minute (11): 4 | minute (12): 5 | minute (13): 5 | minute (14): 6 | minute (15): 6 | minute (16): 6 | minute (17): 5 | minute (18): 4 | minute (19): 5 | minute (20): 5
+ | minute (21): 5 | minute (22): 7 | minute (23): 9 | minute (24): 10 | minute (25): 10 | minute (26): 10 | minute (27): 9 | minute (28): 11 | minute (29): 11 | minute (30): 10
+ | minute (31): 10 | minute (32): 10 | minute (33): 10 | minute (34): 9 | minute (35): 9 | minute (36): 10 | minute (37): 11 | minute (38): 12 | minute (39): 12 | minute (40): 13
+ | minute (41): 13 | minute (42): 13 | minute (43): 12 | minute (44): 12 | minute (45): 12 | minute (46): 11 | minute (47): 11 | minute (48): 8 | minute (49): 9 | minute (50): 8
+ | minute (51): 7 | minute (52): 6 | minute (53): 5 | minute (54): 3 | minute (55): 3 | minute (56): 2 | minute (57): 1 | minute (58): 1 | minute (59): 0
+
+769| Total Time slept: 227
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 1 | minute (5): 1 | minute (6): 1 | minute (7): 1 | minute (8): 1 | minute (9): 1 | minute (10): 1
+ | minute (11): 1 | minute (12): 1 | minute (13): 2 | minute (14): 2 | minute (15): 3 | minute (16): 3 | minute (17): 4 | minute (18): 3 | minute (19): 4 | minute (20): 3
+ | minute (21): 4 | minute (22): 4 | minute (23): 4 | minute (24): 4 | minute (25): 4 | minute (26): 4 | minute (27): 4 | minute (28): 4 | minute (29): 5 | minute (30): 5
+ | minute (31): 5 | minute (32): 5 | minute (33): 5 | minute (34): 5 | minute (35): 4 | minute (36): 4 | minute (37): 4 | minute (38): 5 | minute (39): 5 | minute (40): 6
+ | minute (41): 7 | minute (42): 8 | minute (43): 8 | minute (44): 8 | minute (45): 8 | minute (46): 8 | minute (47): 5 | minute (48): 8 | minute (49): 8 | minute (50): 8
+ | minute (51): 6 | minute (52): 5 | minute (53): 4 | minute (54): 5 | minute (55): 3 | minute (56): 3 | minute (57): 2 | minute (58): 0 | minute (59): 0
+
+809| Total Time slept: 302
+ | minute (0): 1 | minute (1): 2 | minute (2): 3 | minute (3): 3 | minute (4): 3 | minute (5): 3 | minute (6): 3 | minute (7): 3 | minute (8): 3 | minute (9): 4 | minute (10): 3
+ | minute (11): 4 | minute (12): 4 | minute (13): 4 | minute (14): 4 | minute (15): 4 | minute (16): 4 | minute (17): 4 | minute (18): 4 | minute (19): 4 | minute (20): 4
+ | minute (21): 4 | minute (22): 4 | minute (23): 5 | minute (24): 5 | minute (25): 5 | minute (26): 5 | minute (27): 5 | minute (28): 5 | minute (29): 5 | minute (30): 5
+ | minute (31): 6 | minute (32): 6 | minute (33): 7 | minute (34): 6 | minute (35): 5 | minute (36): 5 | minute (37): 6 | minute (38): 6 | minute (39): 7 | minute (40): 9
+ | minute (41): 10 | minute (42): 9 | minute (43): 10 | minute (44): 10 | minute (45): 10 | minute (46): 11 | minute (47): 10 | minute (48): 9 | minute (49): 8 | minute (50): 7
+ | minute (51): 6 | minute (52): 6 | minute (53): 5 | minute (54): 5 | minute (55): 3 | minute (56): 1 | minute (57): 0 | minute (58): 0 | minute (59): 0
+
+877| Total Time slept: 409
+ | minute (0): 0 | minute (1): 2 | minute (2): 3 | minute (3): 4 | minute (4): 5 | minute (5): 5 | minute (6): 5 | minute (7): 6 | minute (8): 6 | minute (9): 6 | minute (10): 7
+ | minute (11): 8 | minute (12): 7 | minute (13): 7 | minute (14): 8 | minute (15): 8 | minute (16): 8 | minute (17): 8 | minute (18): 9 | minute (19): 8 | minute (20): 8
+ | minute (21): 7 | minute (22): 8 | minute (23): 8 | minute (24): 8 | minute (25): 8 | minute (26): 7 | minute (27): 8 | minute (28): 9 | minute (29): 9 | minute (30): 8
+ | minute (31): 8 | minute (32): 8 | minute (33): 8 | minute (34): 8 | minute (35): 8 | minute (36): 8 | minute (37): 8 | minute (38): 7 | minute (39): 8 | minute (40): 8
+ | minute (41): 8 | minute (42): 7 | minute (43): 6 | minute (44): 6 | minute (45): 7 | minute (46): 8 | minute (47): 8 | minute (48): 8 | minute (49): 8 | minute (50): 8
+ | minute (51): 8 | minute (52): 7 | minute (53): 8 | minute (54): 9 | minute (55): 6 | minute (56): 5 | minute (57): 3 | minute (58): 2 | minute (59): 0
+
+1013| Total Time slept: 231
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 0 | minute (6): 0 | minute (7): 0 | minute (8): 0 | minute (9): 0 | minute (10): 0
+ | minute (11): 0 | minute (12): 0 | minute (13): 0 | minute (14): 2 | minute (15): 3 | minute (16): 3 | minute (17): 3 | minute (18): 3 | minute (19): 3 | minute (20): 3
+ | minute (21): 4 | minute (22): 4 | minute (23): 4 | minute (24): 4 | minute (25): 4 | minute (26): 4 | minute (27): 5 | minute (28): 5 | minute (29): 4 | minute (30): 4
+ | minute (31): 5 | minute (32): 5 | minute (33): 5 | minute (34): 6 | minute (35): 6 | minute (36): 6 | minute (37): 7 | minute (38): 7 | minute (39): 7 | minute (40): 7
+ | minute (41): 8 | minute (42): 9 | minute (43): 9 | minute (44): 7 | minute (45): 7 | minute (46): 9 | minute (47): 9 | minute (48): 8 | minute (49): 7 | minute (50): 7
+ | minute (51): 5 | minute (52): 4 | minute (53): 5 | minute (54): 5 | minute (55): 5 | minute (56): 2 | minute (57): 1 | minute (58): 1 | minute (59): 0
+
+1217| Total Time slept: 413
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 1 | minute (6): 1 | minute (7): 3 | minute (8): 5 | minute (9): 6 | minute (10): 6
+ | minute (11): 6 | minute (12): 5 | minute (13): 6 | minute (14): 6 | minute (15): 6 | minute (16): 7 | minute (17): 8 | minute (18): 7 | minute (19): 8 | minute (20): 8
+ | minute (21): 8 | minute (22): 9 | minute (23): 10 | minute (24): 11 | minute (25): 11 | minute (26): 12 | minute (27): 11 | minute (28): 10 | minute (29): 10 | minute (30): 9
+ | minute (31): 9 | minute (32): 10 | minute (33): 10 | minute (34): 10 | minute (35): 12 | minute (36): 13 | minute (37): 10 | minute (38): 10 | minute (39): 9 | minute (40): 9
+ | minute (41): 7 | minute (42): 7 | minute (43): 7 | minute (44): 7 | minute (45): 7 | minute (46): 8 | minute (47): 9 | minute (48): 9 | minute (49): 8 | minute (50): 7
+ | minute (51): 7 | minute (52): 8 | minute (53): 8 | minute (54): 6 | minute (55): 6 | minute (56): 4 | minute (57): 4 | minute (58): 2 | minute (59): 0
+
+1249| Total Time slept: 274
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 1 | minute (5): 1 | minute (6): 1 | minute (7): 1 | minute (8): 1 | minute (9): 1 | minute (10): 1
+ | minute (11): 1 | minute (12): 1 | minute (13): 1 | minute (14): 1 | minute (15): 1 | minute (16): 2 | minute (17): 2 | minute (18): 3 | minute (19): 4 | minute (20): 4
+ | minute (21): 4 | minute (22): 4 | minute (23): 4 | minute (24): 4 | minute (25): 4 | minute (26): 4 | minute (27): 4 | minute (28): 5 | minute (29): 5 | minute (30): 5
+ | minute (31): 6 | minute (32): 6 | minute (33): 6 | minute (34): 7 | minute (35): 8 | minute (36): 8 | minute (37): 7 | minute (38): 8 | minute (39): 8 | minute (40): 8
+ | minute (41): 9 | minute (42): 9 | minute (43): 9 | minute (44): 8 | minute (45): 8 | minute (46): 8 | minute (47): 8 | minute (48): 9 | minute (49): 10 | minute (50): 8
+ | minute (51): 8 | minute (52): 7 | minute (53): 8 | minute (54): 9 | minute (55): 6 | minute (56): 6 | minute (57): 2 | minute (58): 0 | minute (59): 0
+
+1321| Total Time slept: 0
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 0 | minute (6): 0 | minute (7): 0 | minute (8): 0 | minute (9): 0 | minute (10): 0
+ | minute (11): 0 | minute (12): 0 | minute (13): 0 | minute (14): 0 | minute (15): 0 | minute (16): 0 | minute (17): 0 | minute (18): 0 | minute (19): 0 | minute (20): 0
+ | minute (21): 0 | minute (22): 0 | minute (23): 0 | minute (24): 0 | minute (25): 0 | minute (26): 0 | minute (27): 0 | minute (28): 0 | minute (29): 0 | minute (30): 0
+ | minute (31): 0 | minute (32): 0 | minute (33): 0 | minute (34): 0 | minute (35): 0 | minute (36): 0 | minute (37): 0 | minute (38): 0 | minute (39): 0 | minute (40): 0
+ | minute (41): 0 | minute (42): 0 | minute (43): 0 | minute (44): 0 | minute (45): 0 | minute (46): 0 | minute (47): 0 | minute (48): 0 | minute (49): 0 | minute (50): 0
+ | minute (51): 0 | minute (52): 0 | minute (53): 0 | minute (54): 0 | minute (55): 0 | minute (56): 0 | minute (57): 0 | minute (58): 0 | minute (59): 0
+
+1451| Total Time slept: 0
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 0 | minute (6): 0 | minute (7): 0 | minute (8): 0 | minute (9): 0 | minute (10): 0
+ | minute (11): 0 | minute (12): 0 | minute (13): 0 | minute (14): 0 | minute (15): 0 | minute (16): 0 | minute (17): 0 | minute (18): 0 | minute (19): 0 | minute (20): 0
+ | minute (21): 0 | minute (22): 0 | minute (23): 0 | minute (24): 0 | minute (25): 0 | minute (26): 0 | minute (27): 0 | minute (28): 0 | minute (29): 0 | minute (30): 0
+ | minute (31): 0 | minute (32): 0 | minute (33): 0 | minute (34): 0 | minute (35): 0 | minute (36): 0 | minute (37): 0 | minute (38): 0 | minute (39): 0 | minute (40): 0
+ | minute (41): 0 | minute (42): 0 | minute (43): 0 | minute (44): 0 | minute (45): 0 | minute (46): 0 | minute (47): 0 | minute (48): 0 | minute (49): 0 | minute (50): 0
+ | minute (51): 0 | minute (52): 0 | minute (53): 0 | minute (54): 0 | minute (55): 0 | minute (56): 0 | minute (57): 0 | minute (58): 0 | minute (59): 0
+
+1453| Total Time slept: 195
+ | minute (0): 0 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 1 | minute (5): 1 | minute (6): 2 | minute (7): 2 | minute (8): 2 | minute (9): 3 | minute (10): 4
+ | minute (11): 5 | minute (12): 5 | minute (13): 5 | minute (14): 5 | minute (15): 4 | minute (16): 4 | minute (17): 4 | minute (18): 4 | minute (19): 4 | minute (20): 4
+ | minute (21): 4 | minute (22): 4 | minute (23): 3 | minute (24): 3 | minute (25): 4 | minute (26): 4 | minute (27): 4 | minute (28): 4 | minute (29): 4 | minute (30): 4
+ | minute (31): 4 | minute (32): 4 | minute (33): 5 | minute (34): 5 | minute (35): 5 | minute (36): 5 | minute (37): 5 | minute (38): 7 | minute (39): 6 | minute (40): 6
+ | minute (41): 5 | minute (42): 3 | minute (43): 3 | minute (44): 3 | minute (45): 3 | minute (46): 3 | minute (47): 3 | minute (48): 3 | minute (49): 3 | minute (50): 2
+ | minute (51): 2 | minute (52): 2 | minute (53): 2 | minute (54): 2 | minute (55): 2 | minute (56): 1 | minute (57): 1 | minute (58): 0 | minute (59): 0
+
+1733| Total Time slept: 453
+ | minute (0): 1 | minute (1): 1 | minute (2): 2 | minute (3): 2 | minute (4): 2 | minute (5): 2 | minute (6): 2 | minute (7): 3 | minute (8): 5 | minute (9): 5 | minute (10): 5
+ | minute (11): 6 | minute (12): 6 | minute (13): 7 | minute (14): 7 | minute (15): 8 | minute (16): 8 | minute (17): 8 | minute (18): 9 | minute (19): 9 | minute (20): 10
+ | minute (21): 11 | minute (22): 11 | minute (23): 10 | minute (24): 11 | minute (25): 12 | minute (26): 11 | minute (27): 11 | minute (28): 11 | minute (29): 10 | minute (30): 9
+ | minute (31): 9 | minute (32): 10 | minute (33): 10 | minute (34): 11 | minute (35): 11 | minute (36): 14 | minute (37): 15 | minute (38): 17 | minute (39): 15 | minute (40): 15
+ | minute (41): 13 | minute (42): 13 | minute (43): 11 | minute (44): 9 | minute (45): 8 | minute (46): 9 | minute (47): 8 | minute (48): 7 | minute (49): 5 | minute (50): 3
+ | minute (51): 3 | minute (52): 4 | minute (53): 4 | minute (54): 3 | minute (55): 3 | minute (56): 3 | minute (57): 3 | minute (58): 2 | minute (59): 0
+
+1867| Total Time slept: 240
+ | minute (0): 1 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 2 | minute (5): 2 | minute (6): 3 | minute (7): 3 | minute (8): 3 | minute (9): 3 | minute (10): 3
+ | minute (11): 3 | minute (12): 3 | minute (13): 5 | minute (14): 5 | minute (15): 5 | minute (16): 5 | minute (17): 5 | minute (18): 5 | minute (19): 5 | minute (20): 5
+ | minute (21): 5 | minute (22): 5 | minute (23): 5 | minute (24): 5 | minute (25): 5 | minute (26): 5 | minute (27): 6 | minute (28): 5 | minute (29): 5 | minute (30): 5
+ | minute (31): 3 | minute (32): 3 | minute (33): 2 | minute (34): 2 | minute (35): 2 | minute (36): 2 | minute (37): 2 | minute (38): 2 | minute (39): 3 | minute (40): 3
+ | minute (41): 4 | minute (42): 6 | minute (43): 6 | minute (44): 7 | minute (45): 8 | minute (46): 8 | minute (47): 7 | minute (48): 6 | minute (49): 5 | minute (50): 5
+ | minute (51): 5 | minute (52): 5 | minute (53): 4 | minute (54): 5 | minute (55): 5 | minute (56): 6 | minute (57): 3 | minute (58): 1 | minute (59): 0
+
+1987| Total Time slept: 429
+ | minute (0): 0 | minute (1): 1 | minute (2): 1 | minute (3): 2 | minute (4): 3 | minute (5): 4 | minute (6): 5 | minute (7): 5 | minute (8): 6 | minute (9): 7 | minute (10): 7
+ | minute (11): 7 | minute (12): 7 | minute (13): 8 | minute (14): 8 | minute (15): 8 | minute (16): 8 | minute (17): 8 | minute (18): 8 | minute (19): 8 | minute (20): 9
+ | minute (21): 10 | minute (22): 12 | minute (23): 13 | minute (24): 13 | minute (25): 10 | minute (26): 10 | minute (27): 10 | minute (28): 11 | minute (29): 11 | minute (30): 9
+ | minute (31): 8 | minute (32): 8 | minute (33): 8 | minute (34): 8 | minute (35): 8 | minute (36): 7 | minute (37): 7 | minute (38): 9 | minute (39): 9 | minute (40): 9
+ | minute (41): 9 | minute (42): 11 | minute (43): 10 | minute (44): 8 | minute (45): 7 | minute (46): 7 | minute (47): 7 | minute (48): 7 | minute (49): 6 | minute (50): 6
+ | minute (51): 6 | minute (52): 5 | minute (53): 5 | minute (54): 6 | minute (55): 7 | minute (56): 6 | minute (57): 3 | minute (58): 3 | minute (59): 0
+
+2039| Total Time slept: 469
+ | minute (0): 0 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 2 | minute (5): 3 | minute (6): 3 | minute (7): 3 | minute (8): 3 | minute (9): 4 | minute (10): 5
+ | minute (11): 5 | minute (12): 5 | minute (13): 5 | minute (14): 5 | minute (15): 5 | minute (16): 6 | minute (17): 7 | minute (18): 8 | minute (19): 8 | minute (20): 9
+ | minute (21): 9 | minute (22): 9 | minute (23): 10 | minute (24): 10 | minute (25): 9 | minute (26): 9 | minute (27): 9 | minute (28): 9 | minute (29): 10 | minute (30): 10
+ | minute (31): 10 | minute (32): 11 | minute (33): 12 | minute (34): 12 | minute (35): 11 | minute (36): 9 | minute (37): 9 | minute (38): 8 | minute (39): 9 | minute (40): 10
+ | minute (41): 10 | minute (42): 11 | minute (43): 11 | minute (44): 11 | minute (45): 11 | minute (46): 11 | minute (47): 12 | minute (48): 13 | minute (49): 14 | minute (50): 12
+ | minute (51): 12 | minute (52): 10 | minute (53): 11 | minute (54): 11 | minute (55): 8 | minute (56): 7 | minute (57): 6 | minute (58): 4 | minute (59): 0
+
+2311| Total Time slept: 0
+ | minute (0): 0 | minute (1): 0 | minute (2): 0 | minute (3): 0 | minute (4): 0 | minute (5): 0 | minute (6): 0 | minute (7): 0 | minute (8): 0 | minute (9): 0 | minute (10): 0
+ | minute (11): 0 | minute (12): 0 | minute (13): 0 | minute (14): 0 | minute (15): 0 | minute (16): 0 | minute (17): 0 | minute (18): 0 | minute (19): 0 | minute (20): 0
+ | minute (21): 0 | minute (22): 0 | minute (23): 0 | minute (24): 0 | minute (25): 0 | minute (26): 0 | minute (27): 0 | minute (28): 0 | minute (29): 0 | minute (30): 0
+ | minute (31): 0 | minute (32): 0 | minute (33): 0 | minute (34): 0 | minute (35): 0 | minute (36): 0 | minute (37): 0 | minute (38): 0 | minute (39): 0 | minute (40): 0
+ | minute (41): 0 | minute (42): 0 | minute (43): 0 | minute (44): 0 | minute (45): 0 | minute (46): 0 | minute (47): 0 | minute (48): 0 | minute (49): 0 | minute (50): 0
+ | minute (51): 0 | minute (52): 0 | minute (53): 0 | minute (54): 0 | minute (55): 0 | minute (56): 0 | minute (57): 0 | minute (58): 0 | minute (59): 0
+
+2347| Total Time slept: 374
+ | minute (0): 0 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 1 | minute (5): 1 | minute (6): 1 | minute (7): 1 | minute (8): 1 | minute (9): 2 | minute (10): 1
+ | minute (11): 1 | minute (12): 1 | minute (13): 4 | minute (14): 4 | minute (15): 4 | minute (16): 4 | minute (17): 4 | minute (18): 4 | minute (19): 4 | minute (20): 4
+ | minute (21): 4 | minute (22): 4 | minute (23): 6 | minute (24): 6 | minute (25): 6 | minute (26): 6 | minute (27): 8 | minute (28): 9 | minute (29): 8 | minute (30): 9
+ | minute (31): 10 | minute (32): 9 | minute (33): 10 | minute (34): 10 | minute (35): 9 | minute (36): 9 | minute (37): 9 | minute (38): 9 | minute (39): 9 | minute (40): 9
+ | minute (41): 9 | minute (42): 10 | minute (43): 9 | minute (44): 9 | minute (45): 9 | minute (46): 10 | minute (47): 11 | minute (48): 11 | minute (49): 10 | minute (50): 10
+ | minute (51): 10 | minute (52): 12 | minute (53): 11 | minute (54): 11 | minute (55): 11 | minute (56): 9 | minute (57): 5 | minute (58): 3 | minute (59): 0
+
+2663| Total Time slept: 178
+ | minute (0): 0 | minute (1): 1 | minute (2): 2 | minute (3): 2 | minute (4): 2 | minute (5): 2 | minute (6): 2 | minute (7): 2 | minute (8): 2 | minute (9): 2 | minute (10): 2
+ | minute (11): 3 | minute (12): 2 | minute (13): 2 | minute (14): 3 | minute (15): 3 | minute (16): 3 | minute (17): 4 | minute (18): 4 | minute (19): 4 | minute (20): 4
+ | minute (21): 4 | minute (22): 4 | minute (23): 4 | minute (24): 3 | minute (25): 3 | minute (26): 3 | minute (27): 3 | minute (28): 4 | minute (29): 4 | minute (30): 4
+ | minute (31): 4 | minute (32): 4 | minute (33): 5 | minute (34): 5 | minute (35): 5 | minute (36): 4 | minute (37): 4 | minute (38): 5 | minute (39): 5 | minute (40): 5
+ | minute (41): 5 | minute (42): 5 | minute (43): 5 | minute (44): 5 | minute (45): 4 | minute (46): 4 | minute (47): 4 | minute (48): 4 | minute (49): 1 | minute (50): 0
+ | minute (51): 0 | minute (52): 0 | minute (53): 1 | minute (54): 1 | minute (55): 1 | minute (56): 3 | minute (57): 2 | minute (58): 0 | minute (59): 0
+
+3541| Total Time slept: 212
+ | minute (0): 0 | minute (1): 1 | minute (2): 1 | minute (3): 1 | minute (4): 1 | minute (5): 1 | minute (6): 1 | minute (7): 1 | minute (8): 1 | minute (9): 2 | minute (10): 3
+ | minute (11): 4 | minute (12): 6 | minute (13): 6 | minute (14): 6 | minute (15): 6 | minute (16): 7 | minute (17): 7 | minute (18): 6 | minute (19): 5 | minute (20): 5
+ | minute (21): 6 | minute (22): 6 | minute (23): 6 | minute (24): 6 | minute (25): 5 | minute (26): 5 | minute (27): 5 | minute (28): 5 | minute (29): 5 | minute (30): 6
+ | minute (31): 6 | minute (32): 5 | minute (33): 5 | minute (34): 5 | minute (35): 6 | minute (36): 6 | minute (37): 3 | minute (38): 3 | minute (39): 3 | minute (40): 3
+ | minute (41): 3 | minute (42): 3 | minute (43): 3 | minute (44): 3 | minute (45): 3 | minute (46): 4 | minute (47): 4 | minute (48): 4 | minute (49): 4 | minute (50): 3
+ | minute (51): 3 | minute (52): 2 | minute (53): 1 | minute (54): 1 | minute (55): 0 | minute (56): 0 | minute (57): 0 | minute (58): 0 | minute (59): 0
